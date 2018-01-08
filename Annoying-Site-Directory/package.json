@@ -1,0 +1,32 @@
+{
+  "name": "theannoyingsite.com",
+  "description": "",
+  "version": "1.0.0",
+  "author": {
+    "name": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org"
+  },
+  "bugs": {
+    "url": "https://github.com/feross/theannoyingsite.com/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ecstatic": "^3.0.0",
+    "standard": "*"
+  },
+  "license": "-",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/theannoyingsite.com.git"
+  },
+  "scripts": {
+    "deploy": "git push && ssh future 'cd ~/www/theannoyingsite.com && git pull'",
+    "serve": "ecstatic --port 4000 --cache 0 static",
+    "start": "npm run serve",
+    "test": "standard",
+    "watch": "npm run serve"
+  }
+}
