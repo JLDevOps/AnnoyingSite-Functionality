@@ -1,5 +1,5 @@
 # AnnoyingSite-Functionality
----
+
 Code, templating and the Javascript functionality analysis of Feross Aboukhadijeh's The Annoying Site.
 
 Link below redirects to The Annoying Site, but be careful when entering the site.  The site currently utilizes malicious javascript functions. 
@@ -19,7 +19,7 @@ This project was inspired by Feross's talk on ["The Power of the Web Platform."]
 You can also view the Feross Aboukhadijeh's repository [here](https://github.com/feross/TheAnnoyingSite.com/). 
 
 ## Templating & Functionality
----
+
 Templates have been created depending on the use of the Javascript functions that were used on the Annoying Site
 
 A basic template has been created as an entry point to fill in with more Javascript functions, however several templates have been created with specific functionality (found in the Functionality Scripts folder).
@@ -27,7 +27,7 @@ A basic template has been created as an entry point to fill in with more Javascr
 More functionality scripts and Javascripts functions will be added to make more "annoying" features.
 
 ## Getting Started
----
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
@@ -51,7 +51,7 @@ npm install
 The npm command will install the **ecstatic** package.
 
 ## Usage
----
+
 Run the project, only after following the setup guide.
 
 ### Running
