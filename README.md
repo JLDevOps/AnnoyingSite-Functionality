@@ -2,7 +2,8 @@
 
 Code, templating and the Javascript functionality analysis of Feross Aboukhadijeh's The Annoying Site.
 
-Link below redirects to The Annoying Site, but be careful when entering the site.  The site currently utilizes malicious javascript functions. 
+Link below redirects to The Annoying Site, but be careful when entering the site.  The site currently utilizes malicious javascript functions.
+
 **Click at your own risk: [Click Here](https://theannoyingsite.com)**
 
 #### Example Functionality:
@@ -14,7 +15,6 @@ Link below redirects to The Annoying Site, but be careful when entering the site
 
 
 ## Inspiration
----
 This project was inspired by Feross's talk on ["The Power of the Web Platform."](https://www.youtube.com/watch?v=6pY9Bfwfj2A)  
 You can also view the Feross Aboukhadijeh's repository [here](https://github.com/feross/TheAnnoyingSite.com/). 
 
